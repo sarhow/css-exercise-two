@@ -1,0 +1,91 @@
+body {
+  background-color: #ff0000;
+  color: #FFFF;
+  font-size: 100%;
+}
+
+nav {
+  background-color: #FFFF;
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.author {
+ font-size: 90%;
+ padding-bottom: 80px;
+}
+
+.right a:link {
+ color: black;
+ text-decoration: none;
+}
+
+.right a:hover {
+ color: red;
+ text-decoration: none;
+}
+
+.right a:visited {
+ color: blue;
+ text-decoration: none;
+}
+
+.right a:active {
+ color: green;
+ text-decoration: none;
+}
+
+h1 {
+  font-size: 200%;
+  line-height: 150%;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+h3 {
+  font-size: 150%;
+  line-height: 150%;
+  padding-bottom: 20px;
+}
